@@ -8,4 +8,4 @@ Course project for Embedded systems course on Faculty of electrical engineering,
 
 - Input the transfer function using the display.
 
-- The ython script will open the output plots in your default web browser.
+- The python script will open the output plots in your default web browser.
