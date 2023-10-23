@@ -2,10 +2,10 @@
 
 Course project for Embedded systems course on Faculty of electrical engineering, University of Sarajevo - academic year 2020/2021.
 
--Run **main.cpp** in [http://mbed.webredirect.org/].
+- Run **main.cpp** in [http://mbed.webredirect.org/].
 
--Simultaneously, run **mqtt.py** python script.
+- Simultaneously, run **mqtt.py** python script.
 
--Input the transfer function using the display.
+- Input the transfer function using the display.
 
--The ython script will open the output plots in your default web browser.
+- The ython script will open the output plots in your default web browser.
